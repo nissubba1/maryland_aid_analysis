@@ -1,4 +1,5 @@
 -- ******************* Analysis and Questions ***********************----------
+-- Created by Nishan Subba
 
 -- **************** Questions ******************* -----------
 -- These are the questions I'll be using to do analysis. These question are divided into different sections for better organization.
